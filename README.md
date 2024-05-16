@@ -15,5 +15,5 @@ By combining these datasets and categories it the hidden states will be defined 
 4. Decoding: Viterbi Algorithm
 5. Learning: Baum-welch Algorithm
    
-   > * *Which was my part to implement, first I analyse the algorithm mathematically then implement it using matrices in R, Here's the Beum-welch explaination*<br>
-   [Baum-welch Algorithm report](Beum-welch.pdf)
+   > *Which was my part to implement, first I analyse the algorithm mathematically then implement it using matrices in R, Here's the Beum-welch explaination*<br>
+   [Baum-welch Algorithm](Beum-welch.pdf)
